@@ -1,3 +1,4 @@
 Datasets/fake_news/
 Datasets/fake_news/*
 /Datasets/fake_news/
+*.env
